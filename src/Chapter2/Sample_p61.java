@@ -14,6 +14,8 @@ public class Sample_p61 {
 		Sub sub3 = (Sub) obj3;
 		//↑実行時エラー
 		//Test
+
+		int a = 0;
 	}
 
 }
