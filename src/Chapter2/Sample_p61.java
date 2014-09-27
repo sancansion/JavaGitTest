@@ -13,6 +13,7 @@ public class Sample_p61 {
 		Super obj3 = new Super();
 		Sub sub3 = (Sub) obj3;
 		//↑実行時エラー
+		//Test
 	}
 
 }
